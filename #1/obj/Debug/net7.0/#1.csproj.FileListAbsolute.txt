@@ -1,0 +1,14 @@
+C:\Users\Данила Сенин\Desktop\PO\#1\bin\Debug\net7.0\#1.exe
+C:\Users\Данила Сенин\Desktop\PO\#1\bin\Debug\net7.0\#1.deps.json
+C:\Users\Данила Сенин\Desktop\PO\#1\bin\Debug\net7.0\#1.runtimeconfig.json
+C:\Users\Данила Сенин\Desktop\PO\#1\bin\Debug\net7.0\#1.dll
+C:\Users\Данила Сенин\Desktop\PO\#1\bin\Debug\net7.0\#1.pdb
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\#1.AssemblyInfoInputs.cache
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\#1.AssemblyInfo.cs
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\#1.csproj.CoreCompileInputs.cache
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\#1.dll
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\refint\#1.dll
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\#1.pdb
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\#1.genruntimeconfig.cache
+C:\Users\Данила Сенин\Desktop\PO\#1\obj\Debug\net7.0\ref\#1.dll
